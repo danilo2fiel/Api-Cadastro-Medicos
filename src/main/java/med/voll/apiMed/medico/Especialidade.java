@@ -7,5 +7,5 @@ public enum Especialidade {
 	GINECOLOGIA,
 	DERMATOLOGIA,
 	PEDIATRIA,
-	GERIATRIA,;
+	GERIATRIA;
 }
